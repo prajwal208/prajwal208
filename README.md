@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47l262x2zek908m0fn8q6msdf39mbogp0kaxr0wwxd&rid=giphy.gif&ct=g" height="240" width="480">
+<img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47l262x2zek908m0fn8q6msdf39mbogp0kaxr0wwxd&rid=giphy.gif&ct=g" height="240" width="580">
 
 
 <h2>Hi 👋, I'm Prajwal</h2>
