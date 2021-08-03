@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Reactjs
