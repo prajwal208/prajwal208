@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
-- 🤝 I’m looking for help with **Java Programing**
+- 🤝 I’m looking for help with **Data Strcture**
 
 - 📫 How to reach me **@prajwal208**
 
