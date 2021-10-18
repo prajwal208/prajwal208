@@ -4,9 +4,9 @@
 <h2>Hi 👋, I'm Prajwal</h2>
 
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **React-JS**
+- 🌱 I’m currently learning **Node-js**
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
