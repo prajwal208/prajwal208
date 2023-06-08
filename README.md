@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Data Structures**
 
-- 📫 How to reach me **@prajwal208**
+- 📫 How to reach me **prajwalnaik208@gmail.com**
 
 - ⚡ Fun fact **The first programming language was called FORTRAN**
 
