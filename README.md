@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **prajwalnaik208@gmail.com**
 
-- ⚡ Fun fact **The first programming language was called FORTRAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
