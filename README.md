@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Node-js**
-
 - 👯 I’m looking to collaborate on **Any Projects**
 
 - 🤝 I’m looking for help with **Data Structures**
