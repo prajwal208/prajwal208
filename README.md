@@ -1,6 +1,6 @@
-<!--<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width:4600px/>-->
 
 
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="1000px" height="300px"/>
 
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Software Engineer, Web developer</h3>
