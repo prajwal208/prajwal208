@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [https://prajwal208.github.io/portfolio/](https://prajwal208.github.io/portfolio/)
+- 👨‍💻 My portfolio Link [https://prajwal208.github.io/portfolio/](https://prajwal208.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://prajwal208.hashnode.dev/](https://prajwal208.hashnode.dev/)
 
