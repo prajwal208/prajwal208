@@ -1,12 +1,23 @@
+<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h3 align="center">Software Engineer, Web developer</h3>
 
-<h2>Hi 👋, I'm Prajwal</h2>
+- 🔭 I’m currently working on **Full Stack Project**
 
+- 👯 I’m looking to collaborate on **Any Project**
 
-- 🔭 I’m currently working on **Backend Development**
+- 👨‍💻 All of my projects are available at [https://prajwal208.github.io/portfolio/](https://prajwal208.github.io/portfolio/)
 
-- 👯 I’m looking to collaborate on **Any Projects**
+- 📝 I regularly write articles on [https://prajwal208.hashnode.dev/](https://prajwal208.hashnode.dev/)
+
+- 💬 Ask me about **React,Web development**
 
 - 📫 How to reach me **prajwalnaik208@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208&" alt="prajwal208" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
