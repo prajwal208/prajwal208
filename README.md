@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width:4600px/>
+<!--<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width:4600px/>-->
 
 
 
