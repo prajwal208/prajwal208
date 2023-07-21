@@ -23,10 +23,10 @@
   <a href="https://www.linkedin.com/in/k-prajwal-739a46221/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="prajwal naik"/></a>
 
 <p></p>
-
+<span>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208&" alt="prajwal208" height="210px"/>
 <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="380px" height="210px" />
-
+</span>
 
 
 <h3 align="left">Languages and Tools:</h3>
