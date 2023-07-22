@@ -27,7 +27,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208&" alt="prajwal208" height="210px"/>
 </span>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
