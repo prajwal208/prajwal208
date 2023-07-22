@@ -23,9 +23,8 @@
   <a href="https://www.linkedin.com/in/k-prajwal-739a46221/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="prajwal naik"/></a>
 
 <p></p>
-<span>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208&" alt="prajwal208" height="210px"/>
-</span>
+<p></p>
 
 <h3>Languages and Tools:</h3>
 <p align="left">
