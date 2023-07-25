@@ -23,7 +23,8 @@
   <a href="https://www.linkedin.com/in/k-prajwal-739a46221/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="prajwal naik"/></a>
 
 <p></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208&" alt="prajwal208" height="210px"/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal208&theme=2077" height="180em" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal208&theme=2077" height="180em" />
 <p></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,6 +47,16 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+
+
+
+
+
+
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwal208&theme=2077" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal208&theme=2077" height="180em" width="600px" />
+</div>
 
 
 
