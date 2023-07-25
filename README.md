@@ -51,10 +51,6 @@
 
 
 
-
-
-
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwal208&theme=2077" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal208&theme=2077" height="180em" width="600px" />
 </div>
 
